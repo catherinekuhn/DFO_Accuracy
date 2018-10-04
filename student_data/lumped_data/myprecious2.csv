@@ -1,0 +1,334 @@
+DFOID ,Score,Metric
+4226,0.985074627,Precision
+2947,0.913043478,Precision
+2948,0.905405405,Precision
+2180,0.916666667,Precision
+3850,0.839285714,Precision
+2829,0.176470588,Precision
+4241,0.943661972,Precision
+3218,0.768292683,Precision
+2584,0.686746988,Precision
+2586,0.272727273,Precision
+4507,0.935064935,Precision
+3871,0.802469136,Precision
+4516,0.968253968,Precision
+2473,1,Precision
+3754,0.682539683,Precision
+2104,0.708333333,Precision
+2366,0.932432432,Precision
+4163,0.533333333,Precision
+3267,0.924242424,Precision
+2119,0.924242424,Precision
+3657,0.825,Precision
+4427,0.833333333,Precision
+4171,0.972222222,Precision
+3916,0.625,Precision
+3667,0.759493671,Precision
+4435,0.606060606,Precision
+2261,0.841269841,Precision
+2395,0.736111111,Precision
+4315,0.567567568,Precision
+2780,0.723404255,Precision
+2143,1,Precision
+2024,0.887096774,Precision
+2543,0.701298701,Precision
+2940,1,Precision
+2045,0.843137255,Precision
+3070,0.924050633,Precision
+2303,0.761904762,Precision
+4226,1,Recall
+2947,1,Recall
+2948,0.957142857,Recall
+2180,0.970588235,Recall
+3850,0.94,Recall
+2829,0.923076923,Recall
+4241,0.985294118,Recall
+3218,0.969230769,Recall
+2584,1,Recall
+2586,1,Recall
+4507,0.947368421,Recall
+3871,0.970149254,Recall
+4516,0.938461538,Recall
+2473,0.917808219,Recall
+3754,1,Recall
+2104,1,Recall
+2366,1,Recall
+4163,1,Recall
+3267,1,Recall
+2119,0.968253968,Recall
+3657,1,Recall
+4427,0.964912281,Recall
+4171,0.985915493,Recall
+3916,1,Recall
+3667,0.909090909,Recall
+4435,1,Recall
+2261,0.883333333,Recall
+2395,0.963636364,Recall
+4315,1,Recall
+2780,1,Recall
+2143,1,Recall
+2024,0.982142857,Recall
+2543,1,Recall
+2940,1,Recall
+2045,0.914893617,Recall
+3070,1,Recall
+2303,1,Recall
+4226,0.991304348,Overall Accuracy
+2947,0.945454545,Overall Accuracy
+2948,0.916666667,Overall Accuracy
+2180,0.9375,Overall Accuracy
+3850,0.887850467,Overall Accuracy
+2829,0.532786885,Overall Accuracy
+4241,0.956140351,Overall Accuracy
+3218,0.832,Overall Accuracy
+2584,0.792,Overall Accuracy
+2586,0.47107438,Overall Accuracy
+4507,0.921052632,Overall Accuracy
+3871,0.858267717,Overall Accuracy
+4516,0.948717949,Overall Accuracy
+2473,0.948717949,Overall Accuracy
+3754,0.830508475,Overall Accuracy
+2104,0.825,Overall Accuracy
+2366,0.96031746,Overall Accuracy
+4163,0.733333333,Overall Accuracy
+3267,0.957627119,Overall Accuracy
+2119,0.938596491,Overall Accuracy
+3657,0.892307692,Overall Accuracy
+4427,0.888888889,Overall Accuracy
+4171,0.974789916,Overall Accuracy
+3916,0.76744186,Overall Accuracy
+3667,0.814814815,Overall Accuracy
+4435,0.771929825,Overall Accuracy
+2261,0.854700855,Overall Accuracy
+2395,0.817391304,Overall Accuracy
+4315,0.731092437,Overall Accuracy
+2780,0.875,Overall Accuracy
+2143,1,Overall Accuracy
+2024,0.924528302,Overall Accuracy
+2543,0.81147541,Overall Accuracy
+2940,1,Overall Accuracy
+2045,0.901639344,Overall Accuracy
+3070,0.951219512,Overall Accuracy
+2303,0.863636364,Overall Accuracy
+4226,0.014925373,Commission
+2947,0.086956522,Commission
+2948,0.094594595,Commission
+2180,0.083333333,Commission
+3850,0.160714286,Commission
+2829,0.823529412,Commission
+4241,0.056338028,Commission
+3218,0.231707317,Commission
+2584,0.313253012,Commission
+2586,0.727272727,Commission
+4507,0.064935065,Commission
+3871,0.197530864,Commission
+4516,0.031746032,Commission
+2473,0,Commission
+3754,0.317460317,Commission
+2104,0.291666667,Commission
+2366,0.067567568,Commission
+4163,0.466666667,Commission
+3267,0.075757576,Commission
+2119,0.075757576,Commission
+3657,0.175,Commission
+4427,0.166666667,Commission
+4171,0.027777778,Commission
+3916,0.375,Commission
+3667,0.240506329,Commission
+4435,0.393939394,Commission
+2261,0.158730159,Commission
+2395,0.263888889,Commission
+4315,0.432432432,Commission
+2780,0.276595745,Commission
+2143,0,Commission
+2024,0.112903226,Commission
+2543,0.298701299,Commission
+2940,0,Commission
+2045,0.156862745,Commission
+3070,0.075949367,Commission
+2303,0.238095238,Commission
+4226,0,Omission
+2947,0,Omission
+2948,0.042857143,Omission
+2180,0.029411765,Omission
+3850,0.06,Omission
+2829,0.076923077,Omission
+4241,0.014705882,Omission
+3218,0.030769231,Omission
+2584,0,Omission
+2586,0,Omission
+4507,0.052631579,Omission
+3871,0.029850746,Omission
+4516,0.061538462,Omission
+2473,0.082191781,Omission
+3754,0,Omission
+2104,0,Omission
+2366,0,Omission
+4163,0,Omission
+3267,0,Omission
+2119,0.031746032,Omission
+3657,0,Omission
+4427,0.035087719,Omission
+4171,0.014084507,Omission
+3916,0,Omission
+3667,0.090909091,Omission
+4435,0,Omission
+2261,0.116666667,Omission
+2395,0.036363636,Omission
+4315,0,Omission
+2780,0,Omission
+2143,0,Omission
+2024,0.017857143,Omission
+2543,0,Omission
+2940,0,Omission
+2045,0.085106383,Omission
+3070,0,Omission
+2303,0,Omission
+4226,66,True Positives
+2947,63,True Positives
+2948,67,True Positives
+2180,66,True Positives
+3850,47,True Positives
+2829,12,True Positives
+4241,67,True Positives
+3218,63,True Positives
+2584,57,True Positives
+2586,24,True Positives
+4507,72,True Positives
+3871,65,True Positives
+4516,61,True Positives
+2473,67,True Positives
+3754,43,True Positives
+2104,51,True Positives
+2366,69,True Positives
+4163,32,True Positives
+3267,61,True Positives
+2119,61,True Positives
+3657,66,True Positives
+4427,55,True Positives
+4171,70,True Positives
+3916,50,True Positives
+3667,60,True Positives
+4435,40,True Positives
+2261,53,True Positives
+2395,53,True Positives
+4315,42,True Positives
+2780,34,True Positives
+2143,61,True Positives
+2024,55,True Positives
+2543,54,True Positives
+2940,36,True Positives
+2045,43,True Positives
+3070,73,True Positives
+2303,48,True Positives
+4226,48,True Negatives
+2947,41,True Negatives
+2948,43,True Negatives
+2180,54,True Negatives
+3850,48,True Negatives
+2829,53,True Negatives
+4241,42,True Negatives
+3218,41,True Negatives
+2584,42,True Negatives
+2586,33,True Negatives
+4507,33,True Negatives
+3871,44,True Negatives
+4516,50,True Negatives
+2473,44,True Negatives
+3754,55,True Negatives
+2104,48,True Negatives
+2366,52,True Negatives
+4163,45,True Negatives
+3267,52,True Negatives
+2119,46,True Negatives
+3657,50,True Negatives
+4427,49,True Negatives
+4171,46,True Negatives
+3916,49,True Negatives
+3667,50,True Negatives
+4435,48,True Negatives
+2261,47,True Negatives
+2395,41,True Negatives
+4315,45,True Negatives
+2780,57,True Negatives
+2143,48,True Negatives
+2024,43,True Negatives
+2543,45,True Negatives
+2940,70,True Negatives
+2045,67,True Negatives
+3070,44,True Negatives
+2303,47,True Negatives
+4226,1,False Positives
+2947,6,False Positives
+2948,7,False Positives
+2180,6,False Positives
+3850,9,False Positives
+2829,56,False Positives
+4241,4,False Positives
+3218,19,False Positives
+2584,26,False Positives
+2586,64,False Positives
+4507,5,False Positives
+3871,16,False Positives
+4516,2,False Positives
+2473,0,False Positives
+3754,20,False Positives
+2104,21,False Positives
+2366,5,False Positives
+4163,28,False Positives
+3267,5,False Positives
+2119,5,False Positives
+3657,14,False Positives
+4427,11,False Positives
+4171,2,False Positives
+3916,30,False Positives
+3667,19,False Positives
+4435,26,False Positives
+2261,10,False Positives
+2395,19,False Positives
+4315,32,False Positives
+2780,13,False Positives
+2143,0,False Positives
+2024,7,False Positives
+2543,23,False Positives
+2940,0,False Positives
+2045,8,False Positives
+3070,6,False Positives
+2303,15,False Positives
+4226,0,False Negatives
+2947,0,False Negatives
+2948,3,False Negatives
+2180,2,False Negatives
+3850,3,False Negatives
+2829,1,False Negatives
+4241,1,False Negatives
+3218,2,False Negatives
+2584,0,False Negatives
+2586,0,False Negatives
+4507,4,False Negatives
+3871,2,False Negatives
+4516,4,False Negatives
+2473,6,False Negatives
+3754,0,False Negatives
+2104,0,False Negatives
+2366,0,False Negatives
+4163,0,False Negatives
+3267,0,False Negatives
+2119,2,False Negatives
+3657,0,False Negatives
+4427,2,False Negatives
+4171,1,False Negatives
+3916,0,False Negatives
+3667,6,False Negatives
+4435,0,False Negatives
+2261,7,False Negatives
+2395,2,False Negatives
+4315,0,False Negatives
+2780,0,False Negatives
+2143,0,False Negatives
+2024,1,False Negatives
+2543,0,False Negatives
+2940,0,False Negatives
+2045,4,False Negatives
+3070,0,False Negatives
+2303,0,False Negatives
